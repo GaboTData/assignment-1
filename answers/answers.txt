@@ -1,0 +1,6 @@
+Questions 1 and 2 Git commands: when in the local directory write mkdir answers. Once this is created write cd answers to be taken into that repository. Then one can write nano answers.txt to create and open the file which I am no using to write these answers. 
+Question 4: cd Github --> cd assignment-1 --> cd answers --> nano answers.txt
+Question 5: ls -a
+Question 6: ls -F
+Question 7: Rm is a dangerous command as once it is removed or deleted that file/directory does not get stored in a trash can or garbage file. It would get fully deleted from the computer which could lead to the lose of important data and information which cant be regained.Therefore for example if you are trying to remove and old file that has a similar name to a new one you might lose all the changes made within the new file.
+  
