@@ -3,4 +3,6 @@ Question 4: cd Github --> cd assignment-1 --> cd answers --> nano answers.txt
 Question 5: ls -a
 Question 6: ls -F
 Question 7: Rm is a dangerous command as once it is removed or deleted that file/directory does not get stored in a trash can or garbage file. It would get fully deleted from the computer which could lead to the lose of important data and information which cant be regained.Therefore for example if you are trying to remove and old file that has a similar name to a new one you might lose all the changes made within the new file.
-  
+Question 11: cd ../assignment-1-main-main/data/
+Question 12: wc -w *.csv | sort -nr | head -n3 | tail -n1
+Question 13:   

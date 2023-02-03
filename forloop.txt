@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+$ for files in /Gitbash/assignment-1/data
+
+run my_script.sh
+done
+
+
